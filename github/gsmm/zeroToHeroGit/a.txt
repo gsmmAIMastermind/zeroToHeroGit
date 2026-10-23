@@ -1,1 +1,2 @@
 This is the contents of A
+Another Line to A
